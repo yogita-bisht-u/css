@@ -1,0 +1,46 @@
+/* elemnet selector */
+ h1{ 
+    color:red;
+}
+
+p{
+    color:black;
+}
+
+button{
+ color: brown;
+}
+
+
+body{
+    background-color: gray;
+}
+
+button{
+    background-color: black;
+}
+
+h1{
+    color:black;
+}
+
+
+
+/* universal selector  * asterisk / */
+
+*.myclass
+{                           
+
+    color: black;
+}
+
+
+ /* id selector  to unique id*/
+#heading1{
+    color: black;
+}
+
+/*class selector to unique name*/
+.myclass{
+    color: blue;
+}
